@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "issued": "2026-11-04T13:59:19Z",
+  "values": {
+    "ID_URL": "https://vega-pool.account-free.workers.dev",
+    "ID_KEY": "4537196bf3ebdc6d0f36ae2b4328ace68754051a873fa379"
+  },
+  "sig": "6483600b9fd63668ff2cf0afffb8dda7d69016caef9ddbafdbe562694aff29d3"
+}
